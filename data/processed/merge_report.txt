@@ -1,0 +1,37 @@
+Tổng dòng 2 file : 11836
+Bị loại          : 3360
+reason
+trùng lặp                          1982
+quá ngắn (<2 từ)                   1220
+không có chữ (rỗng/ký tự/emoji)      96
+rác (footer web)                     62
+DÙNG ĐƯỢC        : 8476
+
+Theo nguồn:
+source
+jsonl    6722
+csv      1754
+
+Theo loại sản phẩm:
+category
+may-lanh               1197
+tu-lanh                1039
+quat-dieu-hoa           839
+noi-com-dien            636
+may-giat                543
+bep-hong-ngoai          498
+may-nuoc-nong           451
+tivi                    448
+may-loc-nuoc            383
+noi-chien-khong-dau     358
+quat                    354
+lo-vi-song              330
+may-hut-bui             280
+tu-dong                 256
+may-say-quan-ao         236
+robot-hut-bui           191
+may-rua-chen            173
+may-loc-khong-khi       151
+dien-thoai               71
+bep-tu                   35
+laptop                    7
